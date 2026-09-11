@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-09-11 07:33 AM EST",
+  "count": 35,
+  "results": [
+    {
+      "ticker": "XHLD",
+      "sector": "Other",
+      "price": 10.84,
+      "avg_volume": 1856188,
+      "adr": 12.99,
+      "total_return": 622.67,
+      "rsi": 85.5,
+      "rank": 1
+    },
+    {
+      "ticker": "MXL",
+      "sector": "Other",
+      "price": 69.34,
+      "avg_volume": 3800250,
+      "adr": 9.46,
+      "total_return": 310.3,
+      "rsi": 55.7,
+      "rank": 2
+    },
+    {
+      "ticker": "QMCO",
+      "sector": "Other",
+      "price": 23.03,
+      "avg_volume": 1117545,
+      "adr": 10.08,
+      "total_return": 301.22,
+      "rsi": 59.8,
+      "rank": 3
+    },
+    {
+      "ticker": "CYPH",
+      "sector": "Other",
+      "price": 2.2,
+      "avg_volume": 4904229,
+      "adr": 12.39,
+      "total_return": 278.01,
+      "rsi": 69.3,
+      "rank": 4
+    },
+    {
+      "ticker": "DELL",
+      "sector": "Other",
+      "price": 506.62,
+      "avg_volume": 8275910,
+      "adr": 5.98,
+      "total_return": 245.41,
+      "rsi": 64.9,
+      "rank": 5
+    },
+    {
+      "ticker": "BAND",
+      "sector": "Other",
+      "price": 51.62,
+      "avg_volume": 1050437,
+      "adr": 7.61,
+      "total_return": 229.0,
+      "rsi": 56.1,
+      "rank": 6
+    },
+    {
+      "ticker": "TXG",
+      "sector": "Other",
+      "price": 66.38,
+      "avg_volume": 2915903,
+      "adr": 6.5,
+      "total_return": 224.44,
+      "rsi": 56.1,
+      "rank": 7
+    },
+    {
+      "ticker": "APPS",
+      "sector": "Other",
+      "price": 11.8,
+      "avg_volume": 4335869,
+      "adr": 8.01,
+      "total_return": 213.0,
+      "rsi": 59.9,
+      "rank": 8
+    },
+    {
+      "ticker": "EVC",
+      "sector": "Other",
+      "price": 8.67,
+      "avg_volume": 1981730,
+      "adr": 6.34,
+      "total_return": 202.53,
+      "rsi": 73.2,
+      "rank": 9
+    },
+    {
+      "ticker": "ASST",
+      "sector": "Other",
+      "price": 26.9,
+      "avg_volume": 4795118,
+      "adr": 7.65,
+      "total_return": 191.44,
+      "rsi": 86.1,
+      "rank": 10
+    },
+    {
+      "ticker": "TLYS",
+      "sector": "Other",
+      "price": 4.29,
+      "avg_volume": 1011577,
+      "adr": 8.12,
+      "total_return": 163.19,
+      "rsi": 61.2,
+      "rank": 11
+    },
+    {
+      "ticker": "HPE",
+      "sector": "Other",
+      "price": 55.22,
+      "avg_volume": 22477094,
+      "adr": 4.99,
+      "total_return": 160.1,
+      "rsi": 54.6,
+      "rank": 12
+    },
+    {
+      "ticker": "SNDK",
+      "sector": "Other",
+      "price": 1692.59,
+      "avg_volume": 14714623,
+      "adr": 8.01,
+      "total_return": 158.24,
+      "rsi": 58.1,
+      "rank": 13
+    },
+    {
+      "ticker": "SLS",
+      "sector": "Other",
+      "price": 13.49,
+      "avg_volume": 8000277,
+      "adr": 8.88,
+      "total_return": 146.17,
+      "rsi": 50.5,
+      "rank": 14
+    },
+    {
+      "ticker": "AMD",
+      "sector": "Technology",
+      "price": 503.6,
+      "avg_volume": 31594349,
+      "adr": 5.03,
+      "total_return": 145.86,
+      "rsi": 60.5,
+      "rank": 15
+    },
+    {
+      "ticker": "MRNA",
+      "sector": "Healthcare",
+      "price": 136.62,
+      "avg_volume": 11226144,
+      "adr": 6.71,
+      "total_return": 144.1,
+      "rsi": 51.7,
+      "rank": 16
+    },
+    {
+      "ticker": "OSCR",
+      "sector": "Other",
+      "price": 32.58,
+      "avg_volume": 6449887,
+      "adr": 5.62,
+      "total_return": 143.13,
+      "rsi": 55.4,
+      "rank": 17
+    },
+    {
+      "ticker": "HELP",
+      "sector": "Other",
+      "price": 12.84,
+      "avg_volume": 1352307,
+      "adr": 7.19,
+      "total_return": 138.66,
+      "rsi": 52.6,
+      "rank": 18
+    },
+    {
+      "ticker": "TEAM",
+      "sector": "Other",
+      "price": 179.57,
+      "avg_volume": 5914866,
+      "adr": 6.0,
+      "total_return": 138.0,
+      "rsi": 53.2,
+      "rank": 19
+    },
+    {
+      "ticker": "TVTX",
+      "sector": "Other",
+      "price": 67.51,
+      "avg_volume": 1956155,
+      "adr": 4.55,
+      "total_return": 137.13,
+      "rsi": 61.9,
+      "rank": 20
+    },
+    {
+      "ticker": "HUM",
+      "sector": "Other",
+      "price": 400.73,
+      "avg_volume": 1523711,
+      "adr": 3.73,
+      "total_return": 136.16,
+      "rsi": 67.1,
+      "rank": 21
+    },
+    {
+      "ticker": "MU",
+      "sector": "Technology",
+      "price": 977.41,
+      "avg_volume": 46003577,
+      "adr": 6.21,
+      "total_return": 133.58,
+      "rsi": 50.5,
+      "rank": 22
+    },
+    {
+      "ticker": "CLOV",
+      "sector": "Other",
+      "price": 4.71,
+      "avg_volume": 6178373,
+      "adr": 5.49,
+      "total_return": 133.17,
+      "rsi": 81.1,
+      "rank": 23
+    },
+    {
+      "ticker": "UMC",
+      "sector": "Other",
+      "price": 22.12,
+      "avg_volume": 14277837,
+      "adr": 3.98,
+      "total_return": 132.05,
+      "rsi": 77.0,
+      "rank": 24
+    },
+    {
+      "ticker": "STX",
+      "sector": "Technology",
+      "price": 862.33,
+      "avg_volume": 4337879,
+      "adr": 6.35,
+      "total_return": 123.97,
+      "rsi": 52.0,
+      "rank": 25
+    },
+    {
+      "ticker": "CRSR",
+      "sector": "Other",
+      "price": 12.57,
+      "avg_volume": 2010443,
+      "adr": 5.75,
+      "total_return": 120.53,
+      "rsi": 72.0,
+      "rank": 26
+    },
+    {
+      "ticker": "IFRX",
+      "sector": "Other",
+      "price": 2.05,
+      "avg_volume": 1391355,
+      "adr": 9.43,
+      "total_return": 113.1,
+      "rsi": 51.2,
+      "rank": 27
+    },
+    {
+      "ticker": "ARM",
+      "sector": "Other",
+      "price": 254.18,
+      "avg_volume": 8429156,
+      "adr": 6.9,
+      "total_return": 111.64,
+      "rsi": 51.8,
+      "rank": 28
+    },
+    {
+      "ticker": "OKTA",
+      "sector": "Technology",
+      "price": 171.11,
+      "avg_volume": 3681720,
+      "adr": 4.92,
+      "total_return": 111.64,
+      "rsi": 70.9,
+      "rank": 29
+    },
+    {
+      "ticker": "TH",
+      "sector": "Other",
+      "price": 19.12,
+      "avg_volume": 1418856,
+      "adr": 4.88,
+      "total_return": 110.57,
+      "rsi": 59.7,
+      "rank": 30
+    },
+    {
+      "ticker": "INTC",
+      "sector": "Technology",
+      "price": 100.32,
+      "avg_volume": 119075724,
+      "adr": 6.11,
+      "total_return": 109.09,
+      "rsi": 61.3,
+      "rank": 31
+    },
+    {
+      "ticker": "CMPS",
+      "sector": "Other",
+      "price": 14.22,
+      "avg_volume": 3741901,
+      "adr": 6.9,
+      "total_return": 106.39,
+      "rsi": 53.0,
+      "rank": 32
+    },
+    {
+      "ticker": "NEO",
+      "sector": "Other",
+      "price": 17.61,
+      "avg_volume": 2345388,
+      "adr": 5.23,
+      "total_return": 105.96,
+      "rsi": 60.9,
+      "rank": 33
+    },
+    {
+      "ticker": "GTLB",
+      "sector": "Other",
+      "price": 47.3,
+      "avg_volume": 5706449,
+      "adr": 5.33,
+      "total_return": 104.23,
+      "rsi": 64.5,
+      "rank": 34
+    },
+    {
+      "ticker": "NBIS",
+      "sector": "Other",
+      "price": 228.11,
+      "avg_volume": 19613216,
+      "adr": 8.76,
+      "total_return": 103.68,
+      "rsi": 53.6,
+      "rank": 35
+    }
+  ]
+}
